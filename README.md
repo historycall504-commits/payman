@@ -1,2 +1,0 @@
-# payman
-Transfer, cashflow, bank 
